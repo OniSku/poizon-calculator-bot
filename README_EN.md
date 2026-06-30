@@ -1,6 +1,6 @@
 # Poizon Price Calculator Bot
 
-A Telegram bot designed to automate price calculations for the Poizon marketplace. Built as a production-ready solution for logistics and dropshipping businesses.
+A Telegram bot that automates price calculations for the Poizon marketplace. Targets logistics and dropshipping businesses.
 
 ## Tech Stack
 - Python 3.12
@@ -10,7 +10,7 @@ A Telegram bot designed to automate price calculations for the Poizon marketplac
 - Docker & Docker Compose
 
 ## Key Features
-- Finite State Machine (FSM): User-friendly flow for category selection and price input.
+- Finite State Machine (FSM): Step-by-step flow for category selection and price input.
 - Dynamic Calculations: Automatic cost estimation based on CNY rate, shipping fees, and service commission.
 - Database Integration: Every calculation is logged in PostgreSQL for analytics.
 - Admin Notifications: Real-time alerts for the administrator upon new user queries.
