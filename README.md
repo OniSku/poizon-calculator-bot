@@ -1,5 +1,7 @@
 # Poizon Price Calculator Bot
 
+> **NDA Notice**: The source code in this repository is a sanitized showcase version. The complete implementation, business logic, and client-specific configurations are proprietary and covered by a non-disclosure agreement.
+
 A Telegram bot that automates price calculations for the Poizon marketplace. Targets logistics and dropshipping businesses.
 
 ## Tech Stack
